@@ -1,4 +1,4 @@
-  The data used in this project was downloaded in tar format and imported into a PostgreSQL local server database. 
+  The data used in this project was downloaded in tar format and imported into a PostgreSQL local server database. The database can be found in this repository with the title 'DVD rental database'
 
   This project aims to perform an exploratory data analysis (EDA) on a dataset of a DVD rental business that contains 15 tables. The data analysis covered different insights on the available movies, the actors in those movies, the categories of movies, the stores,  the stores' inventory, the customers, the pricing, and other insights. 
 
