@@ -2,5 +2,5 @@
 - Database titled 'DVD rental database' in repository
 - Project goal: Exploratory Data Analysis (EDA) on DVD rental business dataset with 15 tables
 - Analysis covered insights on movies, actors, movie categories, stores, inventory, customers, pricing, etc.
-- PostgreSQL used for comprehensive data exploration with functions like Joins, CTEs, Subqueries, Case, etc.
+- PostgreSQL is used for comprehensive data exploration with functions like Joins, CTEs, Subqueries, Case, etc.
 - [SQL text file](https://github.com/KHALED-HAMADI/DVD_rental_PostreSQL/blob/main/dvdrental_project.sql) in repository shows the process
